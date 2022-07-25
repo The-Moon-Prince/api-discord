@@ -1,2 +1,2 @@
-# api-discord-
+# api-discord
 Api avatar discord
